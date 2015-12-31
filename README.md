@@ -3,7 +3,7 @@
 
 **Raven Tips** is a tip calculator application for iOS.
 
-Submitted by: **Dalton Smith**
+Submitted by: **DaltonSmith**
 
 Time spent: **5-10** hours spent in total
 
